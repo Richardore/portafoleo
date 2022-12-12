@@ -1,3 +1,8 @@
+Buenas noches instructores de silabuz les mando la evidencia de mi proyecto que lo hice en PyCharm y DJango, el motivo del porque estoy enviandolo asi es porque mi tarjeta esta bloqueada por robo y no pude adquirir RAILWAY porque pide 1 dolar y no como mi tarjeta esta bloqueada y como es domingo los bancos estan cerrados ese es mi motivo por el que estoy mandando mi proyecto asi. espero su comprencion...
+atte: Richard Ore Mallcco del Aula Nro. 3
+
+
+
 ![7b1fd226-f78c-4690-857d-f2bd5e8aba02](https://user-images.githubusercontent.com/113269430/206951631-c135adb9-ca41-4175-a186-d26bd8d29f3d.jpg)
 ![55c00dd6-a154-45b3-b419-1912fe501876](https://user-images.githubusercontent.com/113269430/206951632-659247b9-d229-4583-ae75-6d89588e6f30.jpg)
 ![3050d806-396a-4e75-944e-b81702e1470b](https://user-images.githubusercontent.com/113269430/206951633-1b7a33a4-d86b-4db7-99db-e3c55b9474be.jpg)
